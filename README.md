@@ -11,3 +11,5 @@ The inputs to the ALU are 32-bit Single precision floating point numbers based o
 Hope you like it.
 
 For doubts or any advice connect with me on LinkdIn.
+
+"linkedin.com/in/himanshugupta0907"
